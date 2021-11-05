@@ -10,7 +10,7 @@
         },
         {
             "label": "4 columns",
-            "thumbnail": "images/people-alt-grid.jpg",
+            "thumbnail": "images/featured-people-4-col.jpg",
             "data": {
                 "variant": "variant-a",
                 "colors": "colors-a"
