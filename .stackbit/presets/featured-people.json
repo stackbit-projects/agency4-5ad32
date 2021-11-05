@@ -18,7 +18,7 @@
         },
         {
             "label": "2 col, larger images",
-            "thumbnail": "images/featured-people-2-col.jpg",
+            "thumbnail": "images/featured-people-big-images.jpg",
             "data": {
                 "variant": "variant-c",
                 "colors": "colors-a"
