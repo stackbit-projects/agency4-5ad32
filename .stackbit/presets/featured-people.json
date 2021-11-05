@@ -2,7 +2,7 @@
     "model": "FeaturedPeopleSection",
     "presets": [{
             "label": "2 columns",
-            "thumbnail": "images/people-grid.jpg",
+            "thumbnail": "images/featured-people-2-col.jpg",
             "data": {
                 "variant": "variant-b",
                 "colors": "colors-a"
