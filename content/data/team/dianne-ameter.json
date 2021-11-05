@@ -1,0 +1,13 @@
+{
+    "type": "Person",
+    "id": "dianne-ameter",
+    "firstName": "Dianne",
+    "lastName": "Ameter",
+    "role": "Co-Founder, Designer",
+    "bio": "Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae aliquet nec ullamcorper sit.\n",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/team-4.png",
+        "altText": "Dianne Ameter"
+    }
+}

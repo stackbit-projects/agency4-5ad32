@@ -1,0 +1,13 @@
+{
+    "type": "Person",
+    "id": "desmond-eagle",
+    "firstName": "Desmond",
+    "lastName": "Eagle",
+    "role": "Project Manager",
+    "bio": "Interdum velit euismod in pellentesque massa placerat duis ultricies lacus.\n",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/team-1.png",
+        "altText": "Desmond Eagle"
+    }
+}
