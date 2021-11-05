@@ -9,7 +9,7 @@
             }
         },
         {
-            "label": "2 columns alt grid ",
+            "label": "4 columns ",
             "thumbnail": "images/people-alt-grid.jpg",
             "data": {
                 "variant": "variant-c",
