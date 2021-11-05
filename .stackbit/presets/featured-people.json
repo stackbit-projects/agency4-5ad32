@@ -18,7 +18,7 @@
         },
         {
             "label": "2 col, larger images",
-            "thumbnail": "images/people-alt-grid.jpg",
+            "thumbnail": "images/featured-people-2-col.jpg",
             "data": {
                 "variant": "variant-c",
                 "colors": "colors-a"
