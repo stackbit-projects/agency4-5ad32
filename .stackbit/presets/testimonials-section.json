@@ -79,7 +79,8 @@
                     "title": {
                         "fontWeight": 700,
                         "fontStyle": "normal",
-                        "textAlign": "center"
+                        "textAlign": "center",
+                        "padding": ["pt-0"]
                     },
                     "subtitle": {
                         "fontWeight": 400,
