@@ -334,7 +334,7 @@ sections:
         textAlign: center
     type: TextSection
   - elementId: ''
-    colors: colors-c
+    colors: colors-b
     backgroundWidth: full
     title: The Section Title
     subtitle: The section subtitle
