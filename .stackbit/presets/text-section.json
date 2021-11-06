@@ -35,7 +35,6 @@
             },
             "styles": {
                 "self": {
-                    "margin": ["mt-0", "mb-0"],
                     "heigth":"auto",
                     "width":"narrow",
                     "textAlign":"center",
