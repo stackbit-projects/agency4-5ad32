@@ -51,6 +51,7 @@
                     },
                     {
                         "type":"FeaturedPostsSection",
+                        "title":"Latest projects",
                         "variant": "variant-c",
                         "colors": "colors-a"
                     }
