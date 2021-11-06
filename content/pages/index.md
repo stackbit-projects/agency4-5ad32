@@ -131,6 +131,83 @@ sections:
         textAlign: left
     type: TestimonialsSection
   - elementId: ''
+    colors: colors-c
+    backgroundWidth: full
+    title: Testimonials
+    subtitle: What our customers say about us
+    testimonials:
+      - quote: >-
+          It is a long established fact that a reader will be distracted by the
+          readable content of a page when looking at its layout.
+        name: Hilary Ouse
+        title: 'Co-founder, Creative Director'
+        image:
+          type: ImageBlock
+          url: ''
+          altText: ''
+        styles:
+          self:
+            margin:
+              - mt-0
+              - mb-0
+            flexDirection: row
+          quote:
+            textAlign: left
+          name:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
+          title:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
+      - quote: >-
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry.
+        name: Dianne Ameter
+        title: 'Co-founder, Designer'
+        image:
+          type: ImageBlock
+          url: ''
+          altText: ''
+        styles:
+          self:
+            margin:
+              - mt-0
+              - mb-0
+            flexDirection: row
+          quote:
+            textAlign: left
+          name:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
+          title:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+    type: TestimonialsSection
+  - elementId: ''
     colors: colors-a
     backgroundWidth: full
     title: Testimonials
