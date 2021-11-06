@@ -131,7 +131,7 @@ sections:
         textAlign: left
     type: TestimonialsSection
   - elementId: ''
-    colors: colors-c
+    colors: colors-b
     backgroundWidth: full
     title: ''
     subtitle: ''
