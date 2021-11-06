@@ -9,7 +9,7 @@
             }
         },
         {
-            "label": "2 Columns",
+            "label": "1 Column",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-c",
