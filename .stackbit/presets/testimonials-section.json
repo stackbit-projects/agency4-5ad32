@@ -95,7 +95,7 @@
             "label": "Light without image",
             "thumbnail": "images/testimonial-diff-align.jpg",
             "data": {
-                "colors": "colors-a",
+                "colors": "colors-c",
                 "title": "Testimonials",
                 "subtitle": "What our customers say about us",
                 "testimonials": [
