@@ -167,7 +167,7 @@ sections:
     type: TestimonialsSection
   - elementId: ''
     colors: colors-a
-    backgroundWidth: narrow
+    backgroundWidth: full
     title: The title
     subtitle: The section subtitle
     text: |-
