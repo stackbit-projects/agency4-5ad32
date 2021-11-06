@@ -39,7 +39,7 @@
                     "width":"narrow",
                     "flexDirection": "row-reverse",
                     "textAlign":"center",
-                    ""
+                    "justifyContent":"center"
                 },
                 "quote": {
                     "textAlign": "right"
