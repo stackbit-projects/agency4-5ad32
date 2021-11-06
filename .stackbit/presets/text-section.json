@@ -37,7 +37,7 @@
                 "self": {
                     "margin": ["mt-0", "mb-0"],
                     "flexDirection": "row-reverse",
-                    ""
+                    "textAlign"
                 },
                 "quote": {
                     "textAlign": "right"
