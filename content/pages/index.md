@@ -76,15 +76,15 @@ sections:
           - pt-12
           - pb-12
         alignItems: left
-        justifyContent: flex-end
+        justifyContent: left
       title:
         fontWeight: 700
         fontStyle: normal
-        textAlign: center
+        textAlign: left
       subtitle:
         fontWeight: 400
         fontStyle: normal
-        textAlign: center
+        textAlign: left
       text:
         textAlign: center
     type: TextSection
