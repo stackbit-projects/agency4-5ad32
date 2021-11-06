@@ -3,7 +3,7 @@
     "presets": [
         {
             "label": "Light",
-            "thumbnail": "images/placeholder.png",
+            "thumbnail": "images/text-",
             "data": {
                 "colors": "colors-a"
             }
