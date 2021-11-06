@@ -17,7 +17,7 @@
         },
         {
             "label": "Color",
-            "thumbnail": "images/placeholder.png",
+            "thumbnail": "images/text-color.jpg",
             "data": {
                 "colors": "colors-e"
             }
