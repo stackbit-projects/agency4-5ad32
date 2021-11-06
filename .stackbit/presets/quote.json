@@ -93,17 +93,17 @@
                         "justifyContent": "center"
                     },
                     "quote": {
-                        "textAlign": "left"
+                        "textAlign": "right"
                     },
                     "name": {
                         "fontWeight": 400,
                         "fontStyle": "normal",
-                        "textAlign": "left"
+                        "textAlign": "right"
                     },
                     "title": {
                         "fontWeight": 400,
                         "fontStyle": "normal",
-                        "textAlign": "left"
+                        "textAlign": "right"
                     }
                 }
             }
@@ -127,17 +127,17 @@
                         "padding": ["pt-12", "pb-12"]
                     },
                     "quote": {
-                        "textAlign": "left"
+                        "textAlign": "right"
                     },
                     "name": {
                         "fontWeight": 400,
                         "fontStyle": "normal",
-                        "textAlign": "rigth"
+                        "textAlign": "right"
                     },
                     "title": {
                         "fontWeight": 400,
                         "fontStyle": "normal",
-                        "textAlign": "rigth"
+                        "textAlign": "right"
                     }
                 }
             }
