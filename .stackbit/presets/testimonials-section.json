@@ -93,7 +93,7 @@
         },
         {
             "label": "Color with images",
-            "thumbnail": "images/testimonial-dark.jpg",
+            "thumbnail": "images/testimonials-color.jpg",
             "data": {
                 "colors": "colors-b",
                 "title": "",
