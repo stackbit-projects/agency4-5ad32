@@ -3,7 +3,7 @@
     "presets": [
         {
             "label": "Light",
-            "thumbnail": "images/text-",
+            "thumbnail": "images/text-white.jpg",
             "data": {
                 "colors": "colors-a"
             }
