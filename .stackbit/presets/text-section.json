@@ -38,7 +38,6 @@
                     "margin": ["mt-0", "mb-0"],
                     "heigth":"auto",
                     "width":"narrow",
-                    "flexDirection": "row-reverse",
                     "textAlign":"center",
                     "justifyContent":"center"
                 },
