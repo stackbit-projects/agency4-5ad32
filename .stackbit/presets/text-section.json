@@ -1,7 +1,7 @@
 {
     "model": "TextSection",
     "presets": [{
-            "label": "Dark",
+            "label": "Full width, center",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-a"
