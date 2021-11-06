@@ -15,7 +15,7 @@
                 "text": {
                     "textAlign": "right"
                 },
-                "name": {
+                "title": {
                     "fontWeight": 400,
                     "fontStyle": "normal",
                     "textAlign": "right"
