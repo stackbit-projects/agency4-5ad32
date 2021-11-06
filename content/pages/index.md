@@ -192,7 +192,7 @@ sections:
       title:
         fontWeight: 700
         fontStyle: normal
-        textAlign: justify
+        textAlign: left
       subtitle:
         fontWeight: 400
         fontStyle: normal
