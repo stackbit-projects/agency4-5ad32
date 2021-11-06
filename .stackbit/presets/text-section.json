@@ -28,7 +28,7 @@
 
         },
         {
-             "label": "Full width, center",
+             "label": "Narrow, left",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-a"
