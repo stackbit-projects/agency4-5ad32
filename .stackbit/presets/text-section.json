@@ -1,6 +1,7 @@
 {
     "model": "TextSection",
-    "presets": [{
+    "presets": [
+        {
             "label": "Full width, center",
             "thumbnail": "images/placeholder.png",
             "data": {
