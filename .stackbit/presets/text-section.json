@@ -14,6 +14,13 @@
             "data": {
                 "colors": "colors-f"
             }
+        },
+        {
+            "label": "Full width, center",
+            "thumbnail": "images/placeholder.png",
+            "data": {
+                "colors": "colors-e"
+            }
         }
     ]
 }
