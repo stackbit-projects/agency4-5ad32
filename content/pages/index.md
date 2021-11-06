@@ -59,7 +59,7 @@ sections:
     quote: >-
       # It's great to see someone taking action while still maintaining a
       sustainable fish supply.
-    name: Johnna Doe
+    name: Nname Surname
     title: Product Marketing Manager at Acme
     backgroundImage:
       url: /images/BG.png
