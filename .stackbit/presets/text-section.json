@@ -2,21 +2,41 @@
     "model": "TextSection",
     "presets": [{
             "label": "Dark",
-            "thumbnail": "images/text-section-dark.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
-                "colors": "colors-a"
-            }
+                "colors": "colors-c"
+            },
+            "styles": {
+                            "self": {
+                                "margin": ["mt-0", "mb-0"],
+                                "flexDirection": "row-reverse"
+                            },
+                            "quote": {
+                                "textAlign": "right"
+                            },
+                            "name": {
+                                "fontWeight": 400,
+                                "fontStyle": "normal",
+                                "textAlign": "right"
+                            },
+                            "title": {
+                                "fontWeight": 400,
+                                "fontStyle": "normal",
+                                "textAlign": "right"
+                            }
+                        }
+
         },
         {
             "label": "Light",
-            "thumbnail": "images/text-section-light.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-a"
             }
         },
         {
             "label": "Complementary",
-            "thumbnail": "images/text-section-complimentary.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-h"
             }
