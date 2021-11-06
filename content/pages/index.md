@@ -188,17 +188,17 @@ sections:
           - pt-12
           - pb-12
         alignItems: left
-        justifyContent: center
+        justifyContent: left
       title:
         fontWeight: 700
         fontStyle: normal
-        textAlign: center
+        textAlign: left
       subtitle:
         fontWeight: 400
         fontStyle: normal
-        textAlign: center
+        textAlign: left
       text:
-        textAlign: center
+        textAlign: left
     type: TextSection
   - elementId: ''
     colors: colors-a
