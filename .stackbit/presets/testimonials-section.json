@@ -5,8 +5,8 @@
             "thumbnail": "images/testimonial-light.jpg",
             "data": {
                 "colors": "colors-a",
-                "title": "What they say about us",
-                "subtitle": "",
+                "title": "",
+                "subtitle": "What they say about us",
                 "testimonials": [
                     {
                         "quote": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
