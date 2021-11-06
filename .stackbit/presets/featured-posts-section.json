@@ -1,7 +1,7 @@
 {
     "model": "FeaturedPostsSection",
     "presets": [{
-            "label": "3 col",
+            "label": "1 Column",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-a",
