@@ -53,11 +53,7 @@
                         "type":"FeaturedPostsSection",
                         "title":"Recent work",
                         "backgroundWidth": "full",
-                        "posts":[
-                            {
-                                "post":"content/pages/blog/post-three.md"
-                            }
-                        ],
+                        
                         "variant": "variant-c",
                         "colors": "colors-a",
                     }
