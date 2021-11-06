@@ -2,7 +2,7 @@
     "model": "FeaturedPostsSection",
     "presets": [{
             "label": "3 Columns",
-            "thumbnail": "images/placeholder.png",
+            "thumbnail": "images/posts-3-col.jpg",
             "data": {
                 "variant": "variant-a",
                 "colors": "colors-a"
