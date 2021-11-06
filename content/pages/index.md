@@ -54,7 +54,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     backgroundWidth: full
     title: The Section Title
     subtitle: The section subtitle
