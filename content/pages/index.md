@@ -56,6 +56,86 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
+    title: Testimonials
+    subtitle: What they say about us
+    testimonials:
+      - quote: >-
+          It is a long established fact that a reader will be distracted by the
+          readable content of a page when looking at its layout.
+        name: Hilary Ouse
+        title: 'Co-Founder, Creative Director'
+        image:
+          type: ImageBlock
+          url: /images/team-2.png
+          altText: 'Co-Founder, Creative Director'
+        styles:
+          self:
+            margin:
+              - mt-0
+              - mb-0
+            flexDirection: row-reverse
+          quote:
+            textAlign: left
+          name:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
+          title:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
+      - quote: >-
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry.
+        name: Dianne Ameter
+        title: 'Co-founder, Designer'
+        image:
+          type: ImageBlock
+          url: /images/team-4.png
+          altText: 'Co-founder, designer'
+        styles:
+          self:
+            margin:
+              - mt-0
+              - mb-0
+            flexDirection: row
+          quote:
+            textAlign: right
+          name:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: right
+          title:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: right
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-12
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+    type: TestimonialsSection
+  - elementId: ''
+    colors: colors-a
+    backgroundWidth: full
     title: What they say about us
     subtitle: ''
     testimonials:
