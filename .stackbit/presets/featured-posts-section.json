@@ -2,7 +2,7 @@
     "model": "FeaturedPostsSection",
     "presets": [{
             "label": "3 columns light",
-            "thumbnail": "images/featured-posts-3-light.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-a",
                 "colors": "colors-a"
@@ -10,7 +10,7 @@
         },
         {
             "label": "2 columns light",
-            "thumbnail": "images/featured-posts-2-light.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-c",
                 "colors": "colors-a"
@@ -18,7 +18,7 @@
         },
         {
             "label": "2 columns dark",
-            "thumbnail": "images/featured-posts-2-dark.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-c",
                 "colors": "colors-c"
@@ -26,7 +26,7 @@
         },
         {
             "label": "3 columns dark",
-            "thumbnail": "images/featured-posts-3-dark.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-a",
                 "colors": "colors-c"
