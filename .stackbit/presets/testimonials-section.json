@@ -80,7 +80,7 @@
                         "fontWeight": 700,
                         "fontStyle": "normal",
                         "textAlign": "center",
-                        "margin": ["mt-0", "mb-12"]
+                        "margin": ["mt-0", "mb-5"]
                     },
                     "subtitle": {
                         "fontWeight": 400,
