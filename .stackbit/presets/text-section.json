@@ -12,7 +12,7 @@
                     "flexDirection": "row-reverse"
                     },
                     "quote": {
-                    "textAlign": "right"
+                        "textAlign": "right"
                             },
                             "name": {
                                 "fontWeight": 400,
