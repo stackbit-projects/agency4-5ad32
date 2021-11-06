@@ -11,8 +11,8 @@
                     "margin": ["mt-0", "mb-0"],
                     "flexDirection": "row-reverse"
                     },
-                            "quote": {
-                                "textAlign": "right"
+                    "quote": {
+                    "textAlign": "right"
                             },
                             "name": {
                                 "fontWeight": 400,
