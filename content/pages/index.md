@@ -95,7 +95,7 @@ sections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: Latest news
+    title: Featured posts
     subtitle: Featured blog posts section example
     actions:
       - type: Button
