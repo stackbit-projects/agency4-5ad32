@@ -7,7 +7,7 @@
                 "colors": "colors-a"
             },
             "styles": {
-                    "self": {
+                "self": {
                     "margin": ["mt-0", "mb-0"],
                     "flexDirection": "row-reverse"
                     },
