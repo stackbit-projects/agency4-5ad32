@@ -36,7 +36,8 @@
             "styles": {
                 "self": {
                     "margin": ["mt-0", "mb-0"],
-                    "flexDirection": "row-reverse"
+                    "flexDirection": "row-reverse",
+                    ""
                 },
                 "quote": {
                     "textAlign": "right"
