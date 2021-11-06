@@ -15,22 +15,6 @@
                 "variant": "variant-c",
                 "colors": "colors-a"
             }
-        },
-        {
-            "label": "2 columns dark",
-            "thumbnail": "images/placeholder.png",
-            "data": {
-                "variant": "variant-c",
-                "colors": "colors-c"
-            }
-        },
-        {
-            "label": "3 columns dark",
-            "thumbnail": "images/placeholder.png",
-            "data": {
-                "variant": "variant-a",
-                "colors": "colors-c"
-            }
         }
     ]
 }
