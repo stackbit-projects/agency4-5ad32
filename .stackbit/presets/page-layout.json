@@ -50,7 +50,7 @@
                         }
                     },
                     {
-                        "type": "HeroSection",
+                        "type": "FeaturedPostsSection",
                         "backgroundImage":{
                             "altText":"",
                             "caption":""
