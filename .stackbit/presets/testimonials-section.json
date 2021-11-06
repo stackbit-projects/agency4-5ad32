@@ -135,7 +135,7 @@
                         "image": {
                             "type": "ImageBlock",
                             "url": "/images/",
-                            "altText": "Head Fisherman & Founder"
+                            "altText": ""
                         },
                         "styles": {
                             "self": {
