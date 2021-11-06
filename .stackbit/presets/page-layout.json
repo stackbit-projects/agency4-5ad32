@@ -53,9 +53,8 @@
                         "type":"FeaturedPostsSection",
                         "title":"Recent work",
                         "backgroundWidth": "full",
-                    
                         "variant": "variant-c",
-                        "colors": "colors-a",
+                        "colors": "colors-a"
                     }
                 ]
             }
