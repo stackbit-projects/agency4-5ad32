@@ -25,8 +25,8 @@ sections:
         padding:
           - pt-12
           - pb-12
-        alignItems: center
-        justifyContent: center
+        alignItems: left
+        justifyContent: left
         flexDirection: row
         borderRadius: none
         borderWidth: 0
