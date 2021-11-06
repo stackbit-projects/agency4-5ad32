@@ -55,7 +55,8 @@
                         "backgroundWidth": "full",
                         "variant": "variant-c",
                         "colors": "colors-a",
-                        "styles": {
+                        "styles": 
+                            {
                             "self": {
                                 "height": "auto",
                                 "width": "wide",
