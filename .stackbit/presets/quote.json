@@ -16,7 +16,7 @@
                         "height": "auto",
                         "width": "wide",
                         "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-36", "pb-36"],
+                        "padding": ["pt-12", "pb-12"],
                         "alignItems": "center",
                         "justifyContent": "center"
                     },
