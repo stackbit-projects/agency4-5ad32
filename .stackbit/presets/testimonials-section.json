@@ -2,7 +2,7 @@
     "model": "TestimonialsSection",
     "presets": [{
             "label": "Light with image",
-            "thumbnail": "images/testimonial-light.jpg",
+            "thumbnail": "images/testimonials-vertical.jpg",
             "data": {
                 "colors": "colors-a",
                 "title": "Testimonials",
