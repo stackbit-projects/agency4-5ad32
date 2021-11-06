@@ -10,7 +10,7 @@
             "styles": {
                 "self": {
                     "heigth":"auto",
-                    "width":"narrow",
+                    "width":"full",
                     "textAlign":"center",
                     "justifyContent":"center"
                 },
