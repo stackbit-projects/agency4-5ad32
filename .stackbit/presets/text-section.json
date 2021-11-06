@@ -7,13 +7,6 @@
             "data": {
                 "colors": "colors-a"
             }
-        },
-        {
-            "label": "Narrow, left",
-            "thumbnail": "images/placeholder.png",
-            "data": {
-                "colors": "colors-b"
-            },
         }
     ]
 }
