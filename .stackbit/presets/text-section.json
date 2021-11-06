@@ -9,8 +9,10 @@
             },
             "styles": {
                 "self": {
-                    "margin": ["mt-0", "mb-0"],
-                    "flexDirection": "row-reverse"
+                     "heigth":"auto",
+                    "width":"narrow",
+                    "textAlign":"center",
+                    "justifyContent":"center"
                 },
                 "text": {
                     "textAlign": "right"
