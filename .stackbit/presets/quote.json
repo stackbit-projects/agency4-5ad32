@@ -109,7 +109,7 @@
             }
         },
         {
-            "label": "Color background",
+            "label": "Grey background, different alignment",
             "thumbnail": "images/quote-bg-color.jpg",
             "backgroundWith": "full",
             "data": {
