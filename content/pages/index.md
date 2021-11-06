@@ -54,7 +54,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-d
+    colors: colors-b
     backgroundWidth: full
     quote: >-
       # It's great to see someone taking action while still maintaining a
