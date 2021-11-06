@@ -1,7 +1,7 @@
 {
     "model": "TestimonialsSection",
     "presets": [{
-            "label": "Light, same alignment",
+            "label": "Light with image",
             "thumbnail": "images/testimonial-light.jpg",
             "data": {
                 "colors": "colors-a",
