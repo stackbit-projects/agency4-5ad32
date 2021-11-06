@@ -36,6 +36,7 @@
             "styles": {
                 "self": {
                     "margin": ["mt-0", "mb-0"],
+                    "width":"narrow",
                     "flexDirection": "row-reverse",
                     "textAlign":"center",
                     ""
