@@ -7,10 +7,10 @@
                 "colors": "colors-a"
             },
             "styles": {
-                            "self": {
-                                "margin": ["mt-0", "mb-0"],
-                                "flexDirection": "row-reverse"
-                            },
+                    "self": {
+                    "margin": ["mt-0", "mb-0"],
+                    "flexDirection": "row-reverse"
+                    },
                             "quote": {
                                 "textAlign": "right"
                             },
