@@ -131,7 +131,7 @@ sections:
         textAlign: left
     type: TestimonialsSection
   - elementId: ''
-    colors: colors-c
+    colors: colors-d
     backgroundWidth: full
     title: Testimonials
     subtitle: What our customers say about us
