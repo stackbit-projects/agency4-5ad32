@@ -28,18 +28,31 @@
 
         },
         {
-            "label": "Light",
+             "label": "Full width, center",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-a"
+            },
+            "styles": {
+                "self": {
+                    "margin": ["mt-0", "mb-0"],
+                    "flexDirection": "row-reverse"
+                },
+                "quote": {
+                    "textAlign": "right"
+                },
+                "name": {
+                    "fontWeight": 400,
+                    "fontStyle": "normal",
+                    "textAlign": "right"
+                },
+                "title": {
+                    "fontWeight": 400,
+                    "fontStyle": "normal",
+                    "textAlign": "right"
+                }
             }
+
         },
-        {
-            "label": "Complementary",
-            "thumbnail": "images/placeholder.png",
-            "data": {
-                "colors": "colors-h"
-            }
-        }
     ]
 }
