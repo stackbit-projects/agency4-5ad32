@@ -49,52 +49,43 @@
                             }
                         }
                     },
+                    "colors": "colors-e",
+                "backgroundImage": {
+                    "url": "",
+                    "altText": ""
+                },
+                "actions":[
                     {
-                        "type": "FeaturedPostsSection",
-                        "backgroundImage":{
-                            "altText":"",
-                            "caption":""
-                        },
-                        "colors": "colors-a",
-                        "title": "Recent Work",
-                        "posts":[
-                            {
-                                "post":"content/pages/blog/post-three.md",
-                                "post":"content/pages/blog/post-one.md"
-                            }
-                        ],
-                        "actions":[
-                        ],
-                        "styles": {
-                            "self": {
-                                "height": "auto",
-                                "width": "wide",
-                                "margin": ["mt-0", "mb-0"],
-                                "padding": ["pt-12", "pb-0"],
-                                "alignItems": "center",
-                                "justifyContent": "center",
-                                "flexDirection": "col"
-                            },
-                            "title": {
-                                "fontWeight": 700,
-                                "fontStyle": "normal",
-                                "textAlign": "center",
-                                "margin": ["mt-0", "mb-8"]
-                            },
-                            "subtitle": {
-                                "fontWeight": 400,
-                                "fontStyle": "normal",
-                                "textAlign": "center",
-                                "margin": ["mt-5", "mb-0"]
-                            },
-                            "text": {
-                                "textAlign": "center"
-                            },
-                            "actions": {
-                                "justifyContent": "flex-start"
-                            }
-                        }
+                        "type":"Button",
+                        "url":"/",
+                        "style":"secondary",
+                        "altText":"Try it now",
+                        "label":"Try it now"
                     }
+                ],
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "margin": ["mt-0", "mb-0"],
+                        "padding": ["pt-12", "pb-12"],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "col"
+                    },
+                    "title": {
+                        "fontWeight": 700,
+                        "fontStyle": "normal",
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            }
                 ]
             }
         }, {
