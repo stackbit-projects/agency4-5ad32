@@ -224,12 +224,6 @@
                             "url": "/images/about.jpg",
                             "altText": "About us"
                         },
-                        "actions":[
-                            {
-                                "type":"link",
-                                "label":"foo"
-                            }
-                        ],
                         "styles": {
                             "self": {
                                 "height": "auto",
