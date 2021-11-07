@@ -59,6 +59,7 @@
                         "title": "Recent Work",
                         "posts":[
                             {
+                                "post":"content/pages/blog/post-three.md",
                                 "post":"content/pages/blog/post-three.md"
                             }
                         ],
