@@ -224,6 +224,7 @@
                             "url": "/images/about.jpg",
                             "altText": "About us"
                         },
+                        "actions":
                         "styles": {
                             "self": {
                                 "height": "auto",
