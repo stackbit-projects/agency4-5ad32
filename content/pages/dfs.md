@@ -51,7 +51,7 @@ sections:
       - type: Button
         label: Learn more
         url: /
-        style: secondary
+        style: link
     styles:
       self:
         height: auto
