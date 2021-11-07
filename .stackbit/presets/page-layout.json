@@ -263,7 +263,7 @@
                                 "type": "Button",
                                 "label": "Learn more",
                                 "url": "/",
-                                "style": "primary"
+                                "style": "link"
                             }
                         ],
                         "styles": {
