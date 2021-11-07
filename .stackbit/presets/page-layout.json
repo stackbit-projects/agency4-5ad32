@@ -50,7 +50,7 @@
                         }
                     },
                     {
-                        "type":""
+                        "type":"CtaSection",
                         "colors": "colors-e",
                         "backgroundImage": {
                             "url": "",
