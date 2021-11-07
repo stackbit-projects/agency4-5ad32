@@ -51,7 +51,7 @@
                     },
                     {
                         "type":"FeaturedPostsSection",
-                        "title":"Let's do this",
+                        "title":"Recent work",
                         "text":"The Stackbit theme is flexible and scalable to every need. It can manage any layout and any screen.",
                         "colors": "colors-e",
                         "backgroundImage": {
