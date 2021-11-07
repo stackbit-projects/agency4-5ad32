@@ -227,7 +227,7 @@
                         "actions":[
                             {
                                 "type":"link",
-                                "label"
+                                "label":"foo"
                             }
                         ],
                         "styles": {
