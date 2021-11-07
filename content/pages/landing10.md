@@ -48,6 +48,44 @@ sections:
         textAlign: center
       actions:
         justifyContent: flex-start
+  - elementId: ''
+    colors: colors-e
+    backgroundWidth: full
+    backgroundImage:
+      url: ''
+      altText: ''
+    title: Let's do this
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions:
+      - type: Button
+        url: /
+        style: secondary
+        altText: Try it now
+        label: Try it now
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: CtaSection
   - type: CtaSection
     colors: colors-e
     backgroundImage:
