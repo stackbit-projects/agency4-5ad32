@@ -52,7 +52,7 @@
                     {
                         "type":"FeaturedPostsSection",
                         "title":"Recent work",
-                        "colors": "colors-e",
+                        "colors": "colors-a",
                         "backgroundImage": {
                             "url": "",
                             "altText": ""
