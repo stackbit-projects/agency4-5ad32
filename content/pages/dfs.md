@@ -54,6 +54,7 @@ sections:
         style: link
         iconPosition: right
         icon: arrowRight
+        showIcon: true
     styles:
       self:
         height: auto
