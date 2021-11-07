@@ -53,6 +53,7 @@ sections:
         url: /
         style: link
         showIcon: true
+        icon: arrowRight
     styles:
       self:
         height: auto
