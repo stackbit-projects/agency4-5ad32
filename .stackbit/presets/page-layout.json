@@ -59,7 +59,7 @@
                         "title": "Recent Work",
                         "posts":[
                             {
-                                "post":""
+                                "post":"content/pages/blog/post-three.md"
                             }
                         ],
                         "actions":[
