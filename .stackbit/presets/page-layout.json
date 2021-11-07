@@ -58,7 +58,9 @@
                         "colors": "colors-a",
                         "title": "Recent Work",
                         "posts":[
-                            "post"
+                            {
+                                "post":""
+                            }
                         ],
                         "actions":[
                         ],
