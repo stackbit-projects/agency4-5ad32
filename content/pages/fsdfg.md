@@ -52,7 +52,7 @@ sections:
         label: Learn more
         url: /
         style: link
-        showIcon: 'true'
+        showIcon: true
     styles:
       self:
         height: auto
