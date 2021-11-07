@@ -48,7 +48,7 @@
                                 "justifyContent": "flex-start"
                             }
                         }
-                    }
+                    },
                     {
                         "type":"CtaSection",
                         "colors": "colors-e",
