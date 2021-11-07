@@ -226,7 +226,8 @@
                         },
                         "actions":[
                             {
-                                
+                                "type":"link",
+                                "label"
                             }
                         ],
                         "styles": {
