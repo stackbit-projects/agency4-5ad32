@@ -264,6 +264,7 @@
                                 "label": "Learn more",
                                 "url": "/",
                                 "style": "link"
+                                "showIcon":"true"
                             }
                         ],
                         "styles": {
