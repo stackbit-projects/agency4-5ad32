@@ -52,7 +52,7 @@
                     {
                         "type":"CtaSection",
                         "title":"Let's do this",
-                        
+                        "text":"",
                         "colors": "colors-e",
                         "backgroundImage": {
                             "url": "",
