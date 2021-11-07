@@ -86,7 +86,7 @@
                                 "textAlign": "center"
                             },
                             "actions": {
-                                "justifyContent": "flex-start"
+                                "justifyContent": "center"
                             }
                         }
                     }
