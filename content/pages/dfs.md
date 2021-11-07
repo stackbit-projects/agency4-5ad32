@@ -41,7 +41,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: CtaSection
-    colors: colors-e
+    colors: colors-h
     title: Careers
     text: >-
       There are many variations of passages of Lorem Ipsum available, but the
