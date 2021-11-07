@@ -52,6 +52,7 @@ sections:
         label: Learn more
         url: /
         style: link
+        iconPosition: right
     styles:
       self:
         height: auto
